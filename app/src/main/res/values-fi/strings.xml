@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_granted">Paikkatiedot sallittu. Voit nyt nähdä nykyisen sijaintisi sään.</string>
+    <string name="current_weather">Nykyinen Sää</string>
+    <string name="welcome">Nykyisen Sijainnin Sää</string>
+    <string name="this_app_requires_location_services">Tämä sovellus vaatii sijaintipalvelut.</string>
+    <string name="give_location_permission">Myönnä sijaintilupa</string>
+    <string name="go_back_home">Takaisin aloitusnäyttöön</string>
+</resources>

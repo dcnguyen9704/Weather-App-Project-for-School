@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">FinalProject</string>
+    <string name="permission_granted">Location permission granted. You can now see your current location\'s weather.</string>
+    <string name="current_weather">Current Weather</string>
+    <string name="welcome">Current Location Weather</string>
+    <string name="this_app_requires_location_services">This app requires location services.</string>
+    <string name="give_location_permission">Give Location Permission</string>
+    <string name="go_back_home">Go back home</string>
+</resources>
